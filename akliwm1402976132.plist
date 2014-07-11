@@ -11,21 +11,21 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://msdemo.card7.net/data/kaqi.ipa</string>
+					<string>http://msdemo.card7.net/tpl/Wap/default/download/77/akliwm1402976132.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.chjhc.-.zongtaiCar</string>
+				<string>com.chjhc.luhuashipin</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.1.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>测试</string>
+				<string>绿华食品</string>
 				<key>title</key>
-				<string>卡奇公司</string>
+				<string>绿华食品</string>
 			</dict>
 		</dict>
 	</array>
