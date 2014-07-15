@@ -20,6 +20,8 @@
 				<string>com.chjhc.dingizhuangshi</string>
 				<key>bundle-version</key>
 				<string>1.1.4</string>
+				<key>kind</key>
+				<string>software</string>
 				<key>subtitle</key>
 				<string>鼎集装饰</string>
 				<key>title</key>
