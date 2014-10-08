@@ -11,21 +11,21 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://msdemo.card7.net/tpl/Wap/default/download/165/refsqe1403924357.ipa</string>
+					<string>http://msdemo.card7.net/tpl/Wap/default/download/562/vfsbph1410402497.ipa#remote</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.chjhc.xbfcw</string>
+				<string>com.chjhc.hava</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>西北房产网</string>
+				<string>IG-Coil</string>
 				<key>title</key>
-				<string>西北房产网</string>
+				<string>IG-Coil</string>
 			</dict>
 		</dict>
 	</array>
