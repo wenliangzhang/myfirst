@@ -1,1 +1,33 @@
-Enter file contents heresdf
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://msdemo.card7.net/client/1.2.0/super_album.ipa#remote</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.chjhc.ceshi</string>
+				<key>bundle-version</key>
+				<string>1.2.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>卡奇公司测试1</string>
+				<key>title</key>
+				<string>卡奇公司测试1</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
