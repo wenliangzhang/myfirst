@@ -22,6 +22,8 @@
 				<string>1.1.0</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>subtitle</key>
+				<string>敏求电子</string>
 			</dict>
 		</dict>
 	</array>
