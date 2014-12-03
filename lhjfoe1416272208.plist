@@ -11,21 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://msdemo.card7.net/tpl/Wap/default/download/859/lhjfoe1416272208.ipa#remote</string>
+					<string>http://msdemo.card7.net/tpl/Wap/default/download/164/ywiyup1417081155.ipa#remote</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.chjhc.biaohushi</string>
+				<string>com.chjhc..---</string>
 				<key>bundle-version</key>
-				<string>1.1.4</string>
+				<string>1.1.0</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>表护士</string>
 				<key>title</key>
-				<string>表护士</string>
+				<string>表护仕</string>
 			</dict>
 		</dict>
 	</array>
