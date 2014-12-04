@@ -17,13 +17,11 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.chjhc.dingizhuangshi</string>
+				<string>com.chjhc..----</string>
 				<key>bundle-version</key>
-				<string>1.1.4</string>
+				<string>1.1.0</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>鼎集装饰</string>
 				<key>title</key>
 				<string>鼎集装饰</string>
 			</dict>
