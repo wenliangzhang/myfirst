@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://113.240.231.163/iosplist</string>
+            <string>http://www.jialigou.com.cn:8686/iosplist/</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -19,7 +19,7 @@
             <key>needs-shine</key>
             <false/>
             <key>url</key>
-            <string>http://113.240.231.163/iosplist/icon.png</string>
+            <string>http://www.jialigou.com.cn:8686/iosplist/icon.png</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -27,7 +27,7 @@
             <key>needs-shine</key>
             <false/>
             <key>url</key>
-            <string>http://113.240.231.163/iosplist/icon.png</string>
+            <string>http://www.jialigou.com.cn:8686/iosplist/icon.png</string>
           </dict>
         </array>
         <key>metadata</key>
