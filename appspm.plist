@@ -19,7 +19,7 @@
             <key>needs-shine</key>
             <false/>
             <key>url</key>
-            <string>http://192.168.40.103/spmserver/image/icon.png</string>
+            <string>http://113.240.231.163/spmserver/image/icon.png</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -27,7 +27,7 @@
             <key>needs-shine</key>
             <false/>
             <key>url</key>
-            <string>http://192.168.40.103/spmserver/image/icon.png</string>
+            <string>http://113.240.231.163/spmserver/image/icon.png</string>
           </dict>
         </array>
         <key>metadata</key>
@@ -39,9 +39,9 @@
           <key>kind</key>
           <string>software</string>
           <key>subtitle</key>
-          <string>掌上供应链</string>
+          <string>掌上之嘉</string>
           <key>title</key>
-          <string>掌上供应链</string>
+          <string>掌上之嘉</string>
         </dict>
       </dict>
     </array>
